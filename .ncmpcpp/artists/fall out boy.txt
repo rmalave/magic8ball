@@ -1,0 +1,163 @@
+Fall Out Boy is a band formed in 2001 in Glenview, Illinois after good friends Joe Trohman and Pete Wentz met high schooler Patrick Stump. Stump originally auditioned as a drummer, but soon became the lead singer. The following year, the band debuted with a self-released demo and followed it up with the May 28, 2002 release of Split EP, which featured Project Rocket, on Uprising Records. The group released a mini-LP, Evening Out With Your Girlfriend, also on Uprising Records, in 2003.  2003–2004: Independent success 
+
+        Read more about Fall Out Boy on Last.fm.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+
+Similar artists:
+
+ * Joe Trohman (http://www.last.fm/music/Patrick+Stump)
+ * Pete Wentz (http://www.last.fm/music/Panic!+at+the+Disco)
+ * Patrick Stump (http://www.last.fm/music/Cobra+Starship)
+ * Andy Hurley (http://www.last.fm/music/The+Academy+Is...)
+ * Patrick Stump (http://www.last.fm/music/All+Time+Low)
+ * Panic! at the Disco (http://www.last.fm/tag/pop%20punk)
+ * Cobra Starship (http://www.last.fm/tag/rock)
+ * The Academy Is... (http://www.last.fm/tag/emo)
+ * All Time Low (http://www.last.fm/tag/alternative)
+ * pop punk (http://www.last.fm/tag/punk)
+ * rock (l version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<artist>
+  <name>Fall Out Boy</name>
+          <mbid>516cef4d-0718-4007-9939-f9b38af3f784</mbid>
+            <bandmembers>
+                    <member>
+                <name>Joe Trohman</name>
+                                    <yearfrom>2001</yearfrom>
+                                            </member>
+                    <member>
+                <name>Pete Wentz</name>
+                                    <yearfrom>2001</yearfrom>
+                                            </member>
+                    <member>
+                <name>Patrick Stump</name>
+                                    <yearfrom>2001</yearfrom>
+                                            </member>
+                    <member>
+                <name>Andy Hurley</name>
+                                    <yearfrom>2003</yearfrom>
+                                            </member>
+            </bandmembers>
+        <url>http://www.last.fm/music/Fall+Out+Boy</url>
+  <image size="small">http://userserve-ak.last.fm/serve/34/92479285.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/92479285.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/92479285.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/92479285.png</image>
+  <image size="mega">http://userserve-ak.last.fm/serve/500/92479285/Fall+Out+Boy++2013.png</image>
+  <streamable>0</streamable>
+  <ontour>1</ontour>
+  <stats>
+    <listeners>2324933</listeners>
+    <playcount>120800298</playcount>
+      </stats>
+
+  <similar>
+	    <artist>
+	  <name>Patrick Stump</name>
+	  <url>http://www.last.fm/music/Patrick+Stump</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/67137708.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/67137708.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/67137708.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/67137708.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/67137708/Patrick+Stump++png2.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Panic! at the Disco</name>
+	  <url>http://www.last.fm/music/Panic!+at+the+Disco</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/46348085.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/46348085.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/46348085.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/46348085.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/46348085/Panic+at+the+Disco+PanicattheDiscoNewPerspective0.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Cobra Starship</name>
+	  <url>http://www.last.fm/music/Cobra+Starship</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/33569331.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/33569331.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/33569331.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/33569331.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/33569331/Cobra+Starship+33oiosg.png</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>The Academy Is...</name>
+	  <url>http://www.last.fm/music/The+Academy+Is...</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/883802.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/883802.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/883802.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/883802.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/883802/The+Academy+Is.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>All Time Low</name>
+	  <url>http://www.last.fm/music/All+Time+Low</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/81366127.png</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/81366127.png</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/81366127.png</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/81366127.png</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/81366127/All+Time+Low++Dont+Panic.png</image>
+	  
+	        	</artist>
+  </similar>
+    <tags>
+        <tag>
+	  <name>pop punk</name>
+	  <url>http://www.last.fm/tag/pop%20punk</url>
+	</tag>
+        <tag>
+	  <name>rock</name>
+	  <url>http://www.last.fm/tag/rock</url>
+	</tag>
+        <tag>
+	  <name>emo</name>
+	  <url>http://www.last.fm/tag/emo</url>
+	</tag>
+        <tag>
+	  <name>alternative</name>
+	  <url>http://www.last.fm/tag/alternative</url>
+	</tag>
+        <tag>
+	  <name>punk</name>
+	  <url>http://www.last.fm/tag/punk</url>
+	</tag>
+      </tags>
+      <bio>
+        <links>
+        <link rel="original" href="http://www.last.fm/music/Fall+Out+Boy/+wiki" />
+    </links>
+                                    <published>Wed, 14 May 2014 09:12:23 +0000</published>
+    <summary>
+        <![CDATA[        <a href="http://www.last.fm/music/Fall+Out+Boy" class="bbcode_artist">Fall Out Boy</a> is a band formed in 2001 in Glenview, Illinois after good friends <a href="http://www.last.fm/music/Joe+Trohman" class="bbcode_artist">Joe Trohman</a> and <a href="http://www.last.fm/music/Pete+Wentz" class="bbcode_artist">Pete Wentz</a> met high schooler <a href="http://www.last.fm/music/Patrick+Stump" class="bbcode_artist">Patrick Stump</a>. Stump originally auditioned as a drummer, but soon became the lead singer. The following year, the band debuted with a self-released demo and followed it up with the May 28, 2002 release of <a title="Fall Out Boy - Split EP" href="http://www.last.fm/music/Fall+Out+Boy/Split+EP" class="bbcode_album">Split EP</a>, which featured Project Rocket, on <a href="http://www.last.fm/label/Uprising+Records" class="bbcode_label">Uprising Records</a>. The group released a mini-LP, <a title="Fall Out Boy - Evening Out With Your Girlfriend" href="http://www.last.fm/music/Fall+Out+Boy/Evening+Out+With+Your+Girlfriend" class="bbcode_album">Evening Out With Your Girlfriend</a>, also on Uprising Records, in 2003.  2003–2004: Independent success 
+
+        <a href="http://www.last.fm/music/Fall+Out+Boy">Read more about Fall Out Boy on Last.fm</a>.
+    ]]>
+    </summary>
+    <content>
+            <![CDATA[        <a href="http://www.last.fm/music/Fall+Out+Boy" class="bbcode_artist">Fall Out Boy</a> is a band formed in 2001 in Glenview, Illinois after good friends <a href="http://www.last.fm/music/Joe+Trohman" class="bbcode_artist">Joe Trohman</a> and <a href="http://www.last.fm/music/Pete+Wentz" class="bbcode_artist">Pete Wentz</a> met high schooler <a href="http://www.last.fm/music/Patrick+Stump" class="bbcode_artist">Patrick Stump</a>. Stump originally auditioned as a drummer, but soon became the lead singer. The following year, the band debuted with a self-released demo and followed it up with the May 28, 2002 release of <a title="Fall Out Boy - Split EP" href="http://www.last.fm/music/Fall+Out+Boy/Split+EP" class="bbcode_album">Split EP</a>, which featured Project Rocket, on <a href="http://www.last.fm/label/Uprising+Records" class="bbcode_label">Uprising Records</a>. The group released a mini-LP, <a title="Fall Out Boy - Evening Out With Your Girlfriend" href="http://www.last.fm/music/Fall+Out+Boy/Evening+Out+With+Your+Girlfriend" class="bbcode_album">Evening Out With Your Girlfriend</a>, also on Uprising Records, in 2003.  2003–2004: Independent success 
+
+        <a href="http://www.last.fm/music/Fall+Out+Boy">Read more about Fall Out Boy on Last.fm</a>.
+    
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]>
+    </content>
+            <placeformed>Glenview, Illinois</placeformed>                        <yearformed>2001</yearformed>
+            <formationlist>
+                    <formation>
+                <yearfrom>2001</yearfrom>
+                <yearto></yearto>
+            </formation>
+            </formationlist>
+      </bio>
+  </artist></lfm>
+)
+ * emo (http://www.last.fm/music/Fall+Out+Boy)
+ * alternative (http://www.last.fm/music/Patrick+Stump)
+ * punk (http://www.last.fm/music/Panic!+at+the+Disco)
+
+http://www.last.fm/music/Fall+Out+Boy

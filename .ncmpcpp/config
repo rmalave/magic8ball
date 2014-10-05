@@ -1,0 +1,58 @@
+
+ # MPD Settings
+   mpd_crossfade_time = "2"
+   mpd_music_dir = "~/Music"
+
+ # Format
+   song_list_format = " $0%n $1• $7%t $R$0%A "
+   song_status_format = " %t $0 "
+   song_window_title_format = "%t"
+   now_playing_prefix = ">>"
+   progressbar_look = "=>"
+   browser_playlist_prefix = " $2 ♥ $0 "
+   playlist_disable_highlight_delay = "1"
+   user_interface = "alternative"
+
+ # Colors
+   colors_enabled = "no"
+   statusbar_color = "557280"
+   empty_tag_color = "cyan"
+   main_window_color = "#557280" 
+   main_window_highlight_color = "89bcdd"
+
+ # Misc
+   display_bitrate = "yes"
+   autocenter_mode = "yes"
+   centered_cursor = "yes"
+   titles_visibility = "yes"
+   statusbar_visibility = "yes"
+   empty_tag_marker=" -- ? -- "
+   clock_display_seconds="no"
+
+ # ---   
+   mouse_support = "no"
+   header_visibility = "no"
+   display_remaining_time = "yes"
+   display_screens_numbers_on_start = "no"
+   discard_colors_if_item_is_selected = "yes"
+   progressbar_boldness = "no"
+
+ # Visualizer
+   visualizer_sync_interval = "30"
+   visualizer_output_name = "Pipe"
+   visualizer_in_stereo = "yes"
+   visualizer_fifo_path = "/tmp/audio.fifo"
+   visualizer_type = "spectrum" (spectrum/wave)
+   visualizer_color = "#89bcdd"
+   visualizer_look = "o|"
+
+ # lyrics support
+ # supported lyrics databases:
+ # - 1 - lyricwiki.org
+ # - 2 - lyricsplugin.com
+
+   lyrics_database = "1"
+   
+ # editor
+   external_editor = "vim"
+   use_console_editor = "yes" (set to yes, if your editor is console app)
